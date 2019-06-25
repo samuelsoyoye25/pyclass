@@ -1,2 +1,1 @@
-# pyclass
-pyclass example
+  these are examples of pyclass
